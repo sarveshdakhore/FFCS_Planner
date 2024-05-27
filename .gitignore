@@ -1,0 +1,10 @@
+node_modules
+.vscode
+dist
+.parcel-cache
+src/data/*.json
+**/*.DS_Store
+util/output*.json
+yarn-error.log
+venv
+nodeenv
